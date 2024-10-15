@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kobi876
 - 👀 I’m interested in math, science, and computers
-- 🌱 I’m currently learning grade 12 
+- 🌱 I’m currently studying computer engineering @ Toronto Metropolitan University 
 - 💞️ I’m looking to collaborate on different projects 
 - 📫 You can contact me by emailing me at kobikan@gmail.com
 
